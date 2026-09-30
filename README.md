@@ -1,1 +1,1 @@
-# first-git-project
+This is my first project using Git and GitHub. It contains my personal information and major.
